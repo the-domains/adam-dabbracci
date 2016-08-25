@@ -1,4 +1,3 @@
-layout_spectrum: 0.9860516528133303
 typography_spectrum: 0.304826752981171
 color:
   brandStrength: 0.2629497267771512
@@ -11,4 +10,6 @@ color:
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
+layout_spectrum: 0.9860516528133303
 name: Adam Dabbracci
+title: Adam D'Abbracci
